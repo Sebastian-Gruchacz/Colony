@@ -1,0 +1,68 @@
+
+	Labolatorium projektów naukowych
+
+
+	Fizyka stosowana
+
+	Skanowanie uk³adu EKA-238 - odkrycie wszystkich cia³ niebieskich w tym ksiê¿yców w systemie
+
+	Produkcja satelity - pozwala na zmniejszenie o 15% czasu trwania wypraw
+
+	Napêd miêdzyplanetarny - umo¿liwia badanie dotarcie do dowolnej planety uk³adu EKA
+
+	Drony wydobywcze - tworzenie odwiertów na obcych planetach w poszukiwaniu z³ó¿. Zwiêksza wydobycie z³ó¿ o 5%.
+
+	Chemia
+
+	Znajomoœæ z³ó¿ - dziêki znajmoœci z³ó¿ mo¿liwe jest rozpoznanie ska³ zawieraj¹cych surowce takich jak np. ¿elazo, z³oto, miedŸ oraz minera³ów.
+
+	Minera³y - mo¿liwoœæ odzyku specjalnych surowców takich jak krzem czy wapñ co przyspiesza technologiczne aspekty produkcji ¿ywnoœci w konglomeratach o 5%.
+
+	Os³ona koloni - zastosowanie tytanowych os³on podczas budowy muru zaporowego. Obrona koloni zwiêksza siê o 10%.
+
+	Wie¿yczki - Dziêki specjalnej aplikacji diamentów w broñ laserow¹ nastêpuje wzmocnienie si³y ra¿enia o 15%.
+
+	Elektronika
+
+	Usprawnienie dzia³ania ³¹czy - ma wp³yw na socjologiczne aspekty prozumiewania siê w lokalnej sieci neuronetu.
+
+	Budowa skanera dalekiego zasiêgu - pozwala na ulepszenie satelity komunikacyjnej dziêki czemu wzrasta poziom bezpieczeñstwa koloni oraz pozwala na odkrywanie nowych uk³adów. Zwiêksza zadowolenie mieszkañców koloni.
+
+	Uk³ady steruj¹ce magazynowanie danych - pozwala na zmniejszenie kosztów zwi¹zanych z handle -10% ceny u handlarzy.
+
+	Uk³ady pomiaru ciœnieñ - dziêki tym odkryciom mo¿liwe jest odkrywanie z³ó¿ surowców oraz minera³ów pod wod¹ +10% wydobycie.
+	
+	Ekonomia
+
+	Unifikacja wydatków - rozliczenia maj¹ charakter scalony co powoduje zmniejszenie kosztów przy handlu 5%.
+
+	Minimalizacja kosztów - zwiêkszenie o 10% przychodu kredytów koloni.
+
+	Dofinansowanie handlu - ma wp³yw na socjologiê poprawiaj¹c tym samym zadowolenie kolonistów jak równie¿ zwiêkszon¹ liczbê przylatuj¹cych kupców.
+
+	Zmniejszenie kosztów produkcji - poprawia produkcjê ¿ywnoœci oraz czêœci zamiennych o 5%
+
+	Matematyka
+
+	Modyfikacja algorytmów rejestru bazy - poprawia u¿ycie bezpieczeñstwa sieci lokalnej neuronetu.
+
+	Usprawnienia ochrony sieci - zmniejsza iloœci ataków z sieci globalnej planet na bazê koloni.
+
+	Zaawansowana blokada danych (projekt tajny, mo¿liwoœæ zamiany z poziomem 4) - inwigilacja danych kolonistów
+
+	Podstawy dzia³añ mat. w robotyce - dziêki temu odkryciu dodawane s¹ trzy nowe wpisy w inwentarzu handlowym 
+	- 1. Automaty korekcyjne uszkodzeñ sieci - roboty dbaj¹ce o stan sieci, zwiêkszaj¹ bezpieczeñstwo.
+	- 2. Roboty wydobywcze - usprawniaj¹ wydobycie z³ó¿ na planetach +4%, pomagaj¹ dron¹ wydobywczym +4%
+	- 3. Przyspieszacze transportu - umo¿liwiaj¹ szybsz¹ dostawê surowców.
+
+	Socjologia
+
+	Deprecjacja ksenofobi antywyznaniowej - mo¿liwoœæ zak³adania sekt oraz religii poza g³ównonurtowych
+
+	Eliminacja buntów - zmniejsza opuszczanie koloni przez mieszkañców
+
+	Spis grup etnicznych - poprawia bezpieczeñstwo koloni, zwiêksza nastawienie pozytywne.
+
+	Uk³ady pozawyznaniowe - wprowadzenie zwiêkszonej iloœci kolonistów (bez zatrudniania) na miesi¹c
+	 
+	
